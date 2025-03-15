@@ -1,5 +1,4 @@
 import 'package:expense_tracker/widgets/charts/chart.dart';
-import 'package:expense_tracker/widgets/charts/chart_bar.dart';
 import 'package:expense_tracker/widgets/new_expense.dart';
 import 'package:expense_tracker/widgets/expenses_list/expenses_list.dart';
 import 'package:expense_tracker/models/expense.dart';
@@ -25,16 +24,10 @@ class _ExpensesState extends State<Expenses> {
 
   final List<Expense> _list = [
     Expense(
-      title: "Flutter Course",
+      title: "Dummy Expense Delete It!",
       amount: 499.00,
       date: DateTime.now(),
       category: Category.work,
-    ),
-    Expense(
-      title: "Movie",
-      amount: 300,
-      date: DateTime.now(),
-      category: Category.leisure,
     ),
   ];
 
@@ -68,6 +61,7 @@ class _ExpensesState extends State<Expenses> {
 
   @override
   Widget build(BuildContext context) {
+    var width = MediaQuery.of(context).size.width;
     Widget mainContent = const Center(
       child: Text("No Expenses Found Try Adding Some!"),
     );
@@ -85,9 +79,20 @@ class _ExpensesState extends State<Expenses> {
           IconButton(icon: Icon(Icons.add), onPressed: openAddExpenseOverlay),
         ],
       ),
-      body: Column(
-        children: [Chart(expenses: _list), Expanded(child: mainContent)],
-      ),
+      body:
+          width < 600
+              ? Column(
+                children: [
+                  Chart(expenses: _list),
+                  Expanded(child: mainContent),
+                ],
+              )
+              : Row(
+                children: [
+                  Expanded(child: Chart(expenses: _list)),
+                  Expanded(child: mainContent),
+                ],
+              ),
     );
   }
 }
