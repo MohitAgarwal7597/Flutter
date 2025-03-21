@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:math_expressions/math_expressions.dart';
 
 class Calculator extends StatefulWidget {
+  const Calculator({super.key});
   @override
   _CalculatorState createState() {
     return _CalculatorState();
@@ -19,7 +20,8 @@ class _CalculatorState extends State<Calculator> {
         result = "0";
       } else if (value == "=") {
         try {
-          result = "= ${_evaluateExpression(input)}";
+          input = "${_evaluateExpression(input)}";
+          result = "";
         } catch (e) {
           result = "Error";
         }
@@ -77,6 +79,7 @@ class _CalculatorState extends State<Calculator> {
               ),
             ),
           ),
+                    
           SizedBox(height: 5),
           Align(
             alignment: Alignment.topRight,
@@ -93,7 +96,10 @@ class _CalculatorState extends State<Calculator> {
               blendMode: BlendMode.srcIn,
               child: Text(
                 result,
-                style: TextStyle(fontSize: 32, fontWeight: FontWeight.bold),
+                style: TextStyle(
+                  fontSize: 32,
+                  fontWeight: FontWeight.bold,
+                ),
               ),
             ),
           ),
@@ -127,7 +133,7 @@ class _CalculatorState extends State<Calculator> {
                       ),
                       backgroundColor: WidgetStateProperty.all(Colors.black),
                     ),
-
+                  
                     onPressed:
                         () => setState(() {
                           onButtonPressed(text);
