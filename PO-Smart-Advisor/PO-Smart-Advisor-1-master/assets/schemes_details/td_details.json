@@ -1,0 +1,64 @@
+{
+  "title": "Time Deposit (TD) Account Details",
+  "sections": [
+    {
+      "heading": "Who Can Open",
+      "points": [
+        "A single adult",
+        "Joint account (up to 3 adults) - Joint A or Joint B",
+        "A guardian on behalf of a minor",
+        "A guardian on behalf of a person of unsound mind",
+        "A minor above 10 years in his own name",
+        "Note: Any number of accounts can be opened"
+      ]
+    },
+    {
+      "heading": "Deposits",
+      "points": [
+        "Account type available for 1 year, 2 year, 3 year, and 5 year tenures",
+        "Minimum deposit: Rs. 1000 and in multiples of Rs. 100, no maximum limit",
+        "Interest payable annually; no interest on unpaid due interest",
+        "Annual interest can be credited to savings account on request",
+        "Investment under 5-year TD qualifies for Section 80C of Income Tax Act, 1961"
+      ]
+    },
+    {
+      "heading": "Maturity",
+      "points": [
+        "Deposit repayable after completion of 1/2/3/5 years from account opening (as applicable)"
+      ]
+    },
+    {
+      "heading": "Extension of Account",
+      "points": [
+        "On maturity, TD account can be extended for original tenure",
+        "Extension allowed within: 6 months for 1-year TD, 12 months for 2-year TD, 18 months for 3/5-year TD",
+        "Extension request can be submitted at account opening",
+        "Extension also allowed post maturity via application form and passbook",
+        "Interest rate at maturity will apply to extended period"
+      ]
+    },
+    {
+      "heading": "Premature Closure of Account",
+      "points": [
+        "No withdrawal allowed before 6 months from date of deposit",
+        "If closed after 6 months but before 1 year: PO Savings Account interest rate applies",
+        "If closed after 1 year (for 2/3/5-year TD): interest is 2% less than applicable TD rate for completed years; PO Savings interest for incomplete year",
+        "Premature closure by submitting application form and passbook at Post Office"
+      ]
+    },
+    {
+      "heading": "Pledging of TD Account",
+      "points": [
+        "TD account can be pledged or transferred as security via application with pledgee acceptance",
+        "Pledging allowed to: President of India, Governor, RBI, Scheduled Banks, Cooperative Societies/Banks, Corporations, Govt. Companies, Local Authorities, Housing Finance Companies"
+      ]
+    },
+    {
+      "heading": "Note",
+      "points": [
+        "As per National Savings Time Deposit Rules 2019"
+      ]
+    }
+  ]
+}

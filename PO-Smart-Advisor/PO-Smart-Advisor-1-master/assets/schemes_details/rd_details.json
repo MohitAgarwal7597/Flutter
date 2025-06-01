@@ -1,0 +1,86 @@
+{
+  "title": "Recurring Deposit (RD) Account Details",
+  "sections": [
+    {
+      "heading": "Who Can Open",
+      "points": [
+        "A single adult",
+        "Joint account (up to 3 adults) - Joint A or Joint B",
+        "A guardian on behalf of a minor",
+        "A guardian on behalf of a person of unsound mind",
+        "A minor above 10 years in his own name",
+        "Note: Any number of accounts can be opened"
+      ]
+    },
+    {
+      "heading": "Deposits",
+      "points": [
+        "Account can be opened by cash or cheque",
+        "Date of deposit is the date of cheque clearance if opened by cheque",
+        "Minimum monthly deposit: Rs. 100 and in multiples of Rs. 10",
+        "If account is opened by 15th of month, deposit by 15th",
+        "If account is opened after 15th, deposit by last working day of month"
+      ]
+    },
+    {
+      "heading": "Default",
+      "points": [
+        "If deposit not made on time, default fee applies",
+        "Default fee: Rs. 1 for every Rs. 100 denomination (proportionate for others)",
+        "Defaulted deposits must be cleared first before new deposit",
+        "After 4 regular defaults, account is discontinued",
+        "Discontinued accounts can be revived within 2 months of 4th default",
+        "After revival window, no further deposits are allowed",
+        "If ≤4 defaults, account holder may extend maturity by number of defaults and deposit during extension"
+      ]
+    },
+    {
+      "heading": "Advance Deposit",
+      "points": [
+        "Advance deposit allowed up to 5 years if account not discontinued",
+        "Rebate on advance deposit of at least 6 installments",
+        "Rs. 10 rebate for 6 months, Rs. 40 for 12 months (for Rs. 100 denomination)",
+        "Advance deposit can be made during account opening or later"
+      ]
+    },
+    {
+      "heading": "Loan",
+      "points": [
+        "Available after 12 installments and 1 year of continued account",
+        "Loan up to 50% of balance",
+        "Repayable in lump sum or equal monthly installments",
+        "Interest: 2% above RD interest rate",
+        "Interest calculated from withdrawal to repayment date",
+        "If not repaid, loan + interest deducted from maturity value",
+        "Note: Submit loan form and passbook at Post Office"
+      ]
+    },
+    {
+      "heading": "Premature Closure",
+      "points": [
+        "Allowed after 3 years from account opening via application",
+        "If closed before maturity, PO Savings Account interest rate applies",
+        "Premature closure not allowed until all advance deposits are exhausted"
+      ]
+    },
+    {
+      "heading": "Maturity",
+      "points": [
+        "5 years (60 monthly deposits) from account opening",
+        "Extension allowed for additional 5 years with application",
+        "Interest during extension as per original opening rate",
+        "Extended account can be closed anytime",
+        "For full years, RD interest rate applies; for less, PO Savings rate",
+        "Account can be retained for 5 years post maturity without deposits"
+      ]
+    },
+    {
+      "heading": "Repayment on Death",
+      "points": [
+        "Nominee or legal heirs can claim balance by submitting claim",
+        "After approval, nominee/heir can continue account till maturity",
+        "Note: As per National Savings Recurring Deposit Account Rules 2019"
+      ]
+    }
+  ]
+}

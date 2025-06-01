@@ -1,0 +1,69 @@
+{
+  "title": "Post Office Savings Account Details",
+  "sections": [
+    {
+      "heading": "Who Can Open",
+      "points": [
+        "Single adult",
+        "Two adults only (Joint A or Joint B)",
+        "Guardian on behalf of minor",
+        "Guardian on behalf of person of unsound mind",
+        "Minor above 10 years in own name",
+        "Only one account can be opened by an individual as a single account",
+        "Only one account can be opened in the name of minor/above 10 years of age (self)/person of unsound mind",
+        "In case of death of a Joint holder, the surviving holder will be the sole holder...",
+        "Conversion of single to joint account or vice versa is not allowed",
+        "Nomination is mandatory at the time of opening of account",
+        "Minor after attaining majority has to submit fresh account opening form and KYC documents"
+      ]
+    },
+    {
+      "heading": "Deposit and Withdrawal",
+      "points": [
+        "All transactions must be in whole rupees",
+        "Minimum deposit: Rs. 500 (subsequent min: Rs. 10)",
+        "Minimum withdrawal: Rs. 50",
+        "No maximum deposit limit",
+        "Withdrawal not allowed if it reduces balance below Rs. 500",
+        "Rs. 50 maintenance fee if balance not raised to Rs. 500 by year end",
+        "Account closes automatically if balance becomes Nil"
+      ]
+    },
+    {
+      "heading": "Interest",
+      "points": [
+        "Calculated on minimum balance between 10th and end of month",
+        "No interest if balance < Rs. 500 between 10th and end of month",
+        "Credited at end of financial year",
+        "Paid up to preceding month at closure",
+        "Interest up to Rs. 10,000 exempt under Section 80TTA"
+      ]
+    },
+    {
+      "heading": "Silent Account",
+      "points": [
+        "No transaction for 3 years makes account dormant",
+        "Revival requires application, fresh KYC and passbook"
+      ]
+    },
+    {
+      "heading": "Additional Facilities",
+      "points": [
+        "Cheque book",
+        "ATM Card",
+        "eBanking/Mobile Banking",
+        "Aadhaar Seeding",
+        "Atal Pension Yojana (APY)",
+        "PMSBY",
+        "PMJJBY"
+      ]
+    },
+    {
+      "heading": "Notes",
+      "points": [
+        "Post Office Savings Account Rules 2019",
+        "Government Savings Promotion General Rules 2018"
+      ]
+    }
+  ]
+}

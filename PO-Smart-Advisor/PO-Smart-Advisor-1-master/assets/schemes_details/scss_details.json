@@ -1,0 +1,65 @@
+{
+  "title": "Senior Citizen Savings Scheme (SCSS) Account Details",
+  "sections": [
+    {
+      "heading": "Who Can Open",
+      "points": [
+        "An individual above 60 years of age",
+        "Retired Civilian Employees aged 55–60, investment within 1 month of receiving retirement benefits",
+        "Retired Defense Employees aged 50–60, investment within 1 month of receiving retirement benefits",
+        "Account can be opened individually or jointly with spouse only",
+        "Entire deposit in a joint account is attributed to the first holder only"
+      ]
+    },
+    {
+      "heading": "Deposits",
+      "points": [
+        "Minimum deposit: Rs. 1000 and in multiples of Rs. 1000",
+        "Maximum limit: Rs. 30 lakh across all SCSS accounts of an individual",
+        "Excess deposit will be refunded immediately with only PO Savings Account interest applicable for the excess period",
+        "Investment qualifies for Section 80C benefit under Income Tax Act, 1961"
+      ]
+    },
+    {
+      "heading": "Interest",
+      "points": [
+        "Interest is payable quarterly from the date of deposit to the quarter ending (Mar 31, Jun 30, Sep 30, Dec 31)",
+        "Unclaimed quarterly interest will not earn additional interest",
+        "Interest can be credited via auto credit or ECS; for CBS Post Offices, monthly interest can go to CBS savings account",
+        "Interest is taxable if it exceeds Rs. 50,000 in a financial year; TDS applies unless Form 15G/15H is submitted and threshold not crossed"
+      ]
+    },
+    {
+      "heading": "Premature Closure",
+      "points": [
+        "Account can be closed anytime after opening",
+        "If closed before 1 year: no interest payable; any paid interest will be recovered",
+        "If closed between 1–2 years: 1.5% of principal deducted",
+        "If closed between 2–5 years: 1% of principal deducted",
+        "Extended account can be closed after 1 year of extension without deduction"
+      ]
+    },
+    {
+      "heading": "Account Closure on Maturity",
+      "points": [
+        "Account can be closed after 5 years from opening by submitting application with passbook",
+        "In case of death, account earns PO Savings interest from date of death",
+        "If spouse is joint holder or nominee, and eligible, account may continue till maturity if no other SCSS account is held"
+      ]
+    },
+    {
+      "heading": "Extension of Account",
+      "points": [
+        "Account can be extended for 3 more years after maturity by submitting form and passbook",
+        "Extension must be done within 1 year of maturity",
+        "Extended account earns interest as per rate on date of maturity"
+      ]
+    },
+    {
+      "heading": "Note",
+      "points": [
+        "As per Senior Citizen Savings Scheme Rules 2019"
+      ]
+    }
+  ]
+}

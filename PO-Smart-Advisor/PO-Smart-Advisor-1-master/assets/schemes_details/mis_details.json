@@ -1,0 +1,57 @@
+{
+  "title": "Monthly Income Scheme (MIS) – Key Details",
+  "sections": [
+    {
+      "heading": "Eligibility – Who Can Open",
+      "points": [
+        "Single Adult",
+        "Joint Account (up to 3 adults – Joint A or Joint B type)",
+        "Guardian on behalf of a minor or person of unsound mind",
+        "Minor above 10 years in their own name"
+      ]
+    },
+    {
+      "heading": "Deposit Rules",
+      "points": [
+        "Minimum Deposit: ₹1,000 (in multiples of ₹1,000)",
+        "Maximum Deposit: ₹9 lakh in a single account, ₹15 lakh in a joint account (equally shared)",
+        "Cumulative Limit per Individual: Total deposits in all MIS accounts must not exceed ₹9 lakh",
+        "Minor Account Limit: Separate from guardian’s individual limit"
+      ]
+    },
+    {
+      "heading": "Interest Details",
+      "points": [
+        "Paid monthly, starting one month after deposit",
+        "Unclaimed interest will not earn further interest",
+        "Excess deposits refunded; only Post Office Savings Account interest applies for that period",
+        "Auto credit into savings account at the same post office or via ECS",
+        "Monthly interest from CBS post offices can be credited to any CBS-linked savings account",
+        "Interest is taxable in the depositor’s hands"
+      ]
+    },
+    {
+      "heading": "Premature Closure",
+      "points": [
+        "Not allowed before 1 year of account opening",
+        "If closed after 1–3 years: 2% of principal is deducted",
+        "If closed after 3–5 years: 1% of principal is deducted",
+        "Requires submission of prescribed form and passbook"
+      ]
+    },
+    {
+      "heading": "Maturity",
+      "points": [
+        "Maturity after 5 years from the date of opening",
+        "Requires form and passbook to close",
+        "If account holder dies before maturity: amount paid to nominee/legal heir with interest up to the previous month"
+      ]
+    },
+    {
+      "heading": "Note",
+      "points": [
+        "Governed by National Savings (MIS) Account Rules, 2019"
+      ]
+    }
+  ]
+}

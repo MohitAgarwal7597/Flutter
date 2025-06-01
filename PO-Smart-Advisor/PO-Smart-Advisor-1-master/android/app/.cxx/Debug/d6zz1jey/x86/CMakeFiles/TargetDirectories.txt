@@ -1,0 +1,2 @@
+C:/Users/mohit/OneDrive/Desktop/ano/PO-Smart-Advisor-1-master/PO-Smart-Advisor-1-master/android/app/.cxx/Debug/d6zz1jey/x86/CMakeFiles/edit_cache.dir
+C:/Users/mohit/OneDrive/Desktop/ano/PO-Smart-Advisor-1-master/PO-Smart-Advisor-1-master/android/app/.cxx/Debug/d6zz1jey/x86/CMakeFiles/rebuild_cache.dir
