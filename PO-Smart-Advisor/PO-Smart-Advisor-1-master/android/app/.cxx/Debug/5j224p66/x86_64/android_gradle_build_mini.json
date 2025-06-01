@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\src\\flutter_3.29.3\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\mohit\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\mohit\\OneDrive\\Desktop\\New folder (3)\\PO-Smart-Advisor\\PO-Smart-Advisor-1-master\\android\\app\\.cxx\\Debug\\5j224p66\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\mohit\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\mohit\\OneDrive\\Desktop\\New folder (3)\\PO-Smart-Advisor\\PO-Smart-Advisor-1-master\\android\\app\\.cxx\\Debug\\5j224p66\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+C:/Users/mohit/OneDrive/Desktop/New folder (3)/PO-Smart-Advisor/PO-Smart-Advisor-1-master/android/app/.cxx/RelWithDebInfo/71245fx6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/mohit/OneDrive/Desktop/New folder (3)/PO-Smart-Advisor/PO-Smart-Advisor-1-master/android/app/.cxx/RelWithDebInfo/71245fx6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
